@@ -2,6 +2,7 @@
 
 # Intro
 1. dockerfile for aws ecs-cli ( https://github.com/aws/amazon-ecs-cli )
+1. automatic pull newest ecs-cli ( i have a tiny script for this purpose )
 
 # Usage
 ```
