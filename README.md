@@ -1,5 +1,8 @@
 # Change Log
 
+## [ecs-cli-](https://github.com/sahsu/docker-ecs-cli/tree/ecs-cli-) (2018-10-19)
+[Full Changelog](https://github.com/sahsu/docker-ecs-cli/compare/ecs-cli-1.7.0...ecs-cli-)
+
 ## [ecs-cli-1.7.0](https://github.com/sahsu/docker-ecs-cli/tree/ecs-cli-1.7.0) (2018-07-19)
 [Full Changelog](https://github.com/sahsu/docker-ecs-cli/compare/ecs-cli-1.6.0...ecs-cli-1.7.0)
 
